@@ -1,0 +1,39 @@
+.special {
+    color: orange;
+    font-weight: bold;
+  }
+  li em {
+    color: rebeccapurple;
+  }
+  p {
+    font-size: 100%;
+  }
+  h1 {
+      font-size: 200%
+  }
+  img{
+    size: 600 x 400;
+    alt: inherit;
+  }
+  table{
+      text-decoration: lightslategray;
+  }
+  .borda {
+    border-width: medium;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+        }
+   .borda2 {
+        border-width: medium;
+    border-style: solid;
+    border-color: rgb(255, 0, 0);
+    }
+    div {
+        background: rgb(0, 0, 0);
+        color: #FFF;
+        padding: 10px;
+    }
+    div.margem2 {
+        background: rgb(0, 0, 0);
+        color: #FFF;
+        padding: 10px;
